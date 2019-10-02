@@ -1,1 +1,1 @@
-# arrayfor-no-ajacent-number-are-same
+# arrayfor-no-adjacent-number-are-same
